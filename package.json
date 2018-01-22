@@ -1,14 +1,14 @@
 {
-  "name": "weixin-pay",
-  "version": "1.1.7",
-  "description": "weixin payment",
+  "name": "weixin-pay-zh",
+  "version": "1.1.9",
+  "description": "weixin payment maintainness and fix bug",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
+    "md5": "^2.2.1",
     "request": "^2.54.0",
-    "MD5": "^1.2.1",
     "xml2js": "^0.4.6"
   },
   "devDependencies": {},
@@ -17,17 +17,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tvrcgo/weixin-pay.git"
+    "url": "https://github.com/cybersky/weixin-pay.git"
   },
   "keywords": [
     "weixin",
     "wechat",
     "payment"
   ],
-  "author": "tvrcgo",
+  "author": "cybersky",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tvrcgo/weixin-pay/issues"
+    "url": "https://github.com/cybersky/weixin-pay/issues"
   },
-  "homepage": "https://github.com/tvrcgo/weixin-pay"
+  "homepage": "https://github.com/cybersky/weixin-pay"
 }
